@@ -1,0 +1,52 @@
+# Alg*** ile Kazan - Friend Invitation Case Study
+
+**Target Audience:** 
+
+- *School-age Children (10-14 years-old)*
+    - loves eating ice cream and win promotional products.
+    - establish a relationship with their friends through ice cream and snacks.
+    - Good adaptation on technology and mobile apps
+    - great audience for gamification
+- *College Students:*
+    - Looking for affordable and indulgent ice cream treats.
+    - Who enjoy ice cream as a late-night snack or study break.
+    - Good relationship with technology and mobile apps.
+    - Uses online payment and online wallet frequently.
+- *Families with children*
+    - Parents and caregivers looking for a tasty treat for their kids.
+    - Who want to create positive family experiences around ice cream and promotions.
+    
+
+**Scope & Business Objectives**
+
+1. *Feature Scope:* 
+- Users log in to the application with the motivation to participate in a giveaway, win for free, or earn different products.
+- Information should be shown to the user within the application that they can earn points and use these points for Algida online purchases, as well as win rewards.
+- If the user enables notifications, they should be informed that they will receive news about rewards more easily and encouraged to turn on notifications.
+- The user should be aware of the points they will earn when inviting a friend.
+- In the message sent to the friend, the user's friend should be informed that they will earn points.
+- The user who sends the invitation should receive information about which friend accepted their invitation. This will increase the user's commitment to the application.
+- There should be methods within the application for users to earn points, so users will be motivated to keep the application on their smartphones.
+    1. *Business Objectives:* 
+- Increasing the install base of the application, attracting more users, and introducing the application to a wider audience.
+- Examining users' consumption habits based on data such as age, gender, and geographic location. By identifying the products consumed by users based on their age group, gender, or geographical location, the right marketing steps can be taken.
+- Increasing the time users spend in the application, encouraging them to use the application in the long term, and gaining their loyalty.
+- When a new product (for example; new ice cream with different flavor) is launched, being in closer contact with users for introducing the product to the loyal audience within the application and gathering their feedback
+
+**Assumptions**
+
+**Assumption 1:**
+
+- We assume that invited friends will download the application or create an account and log in to accept the invitation.
+
+**Assumption 2:**
+
+- It is assumed that users will have access to the correct contact information to invite their friends. For example, they should have access to the correct phone number.
+
+**Assumption 3:**
+
+- We assume that the technical systems, infrastructure, and databases necessary for the management of gift points and rewards are working properly.
+
+**Assumption 4:**
+
+- We assume that users will carry out the invitation process in compliance with the law. This means not sending spam or unwanted invitations and following the rules and regulations.
