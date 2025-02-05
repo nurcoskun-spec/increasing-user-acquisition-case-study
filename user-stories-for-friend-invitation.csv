@@ -1,0 +1,35 @@
+Epic,User Stories,User Stories,Acceptance Criteria
+Earning Gift Points with Friend Invitations,Sending Invitation,"As a user, I want to earn reward points by using the new 'Invite a Friend' feature within the application. During this process, if my friend is going to use an invitation code, I should be able to easily share this invitation code with them. I can choose my preferred method for inviting, such as SMS, social media sharing, or a personal invitation link, as one of these methods. I can send invitations to my friends using the method I've selected.","*Users should be able to successfully access the 'Invitees Invite' page.
+*The 'Invite Code' to be shared with Invitees should be copyable.
+*Invitees' phone numbers should be input as needed. If the Inviter enters a valid phone number, the 'Share' button should be activated; otherwise, it should remain inactive.
+*If the Inviter enters a valid phone number, they should be able to share the invitation code with the Invitee through the means determined by the system.
+*The message sent to the Invitee should include the Invitation code and the app download link."
+,Tracking Invitations,"As a user, I should be able to see a list of those I've invited, with the motivation of earning points.
+I should be able to trigger the registration and login of the invited users.
+","*IThe inviter should be able to see a list of friends they have invited.
+*If the invitee has accepted the invitation and registered, their Display name will be visible in the inviter's invitation list.
+*If the invitee has not yet accepted the invitation, the inviter's shared phone number will be displayed in the Inviter's Invitation list.
+*The inviter can poke invitees who have not yet accepted the invitation once a day.
+*The inviter can poke an invitee who has not accepted an invitation a maximum of x times."
+,Friend Registration Process,"If the Inviter signs up without entering or skipping the invitation code, both the Inviter and Invitee should still be able to earn points. 
+If the Invitee wants a specific Invitee to earn points, they should use the Invitation Code shared by that Inviter.","* The Invitation Code that must be used should be included in the message shared by the Inviter.
+* The Inviter's name should be mentioned in the message shared by the Inviter ( friendly message).
+* The message shared by the Inviter should contain a valid link to the application.
+* If the phone number entered by the Invitee during the registration process has been previously added to the system by an Inviter, the Inviter should receive +50 points.
+* If multiple Inviters have made recommendations and the Invitee did not use any invitation code during registration, the last Inviter should receive +50 points when the Invitee logs in for the first time.
+* If multiple Inviters have made recommendations and the Invitee used an invitation code during registration, the Inviter whose code matches should receive +50 points when the Invitee logs in.
+* If the Invitee does not log in to the application at least once, the Inviter cannot earn points.
+* The Inviter should be informed through notifications when the Invitee logs into the application and earns points"
+,Inviter Earning Reward Points Process,The inviter should be able to see that the earned reward points are valid and correctly displayed on their homepage.,"* The Inviter cannot earn points when the Invitee registers for the application.
+* The Inviter should be notified when the Invitee logs into the application.
+* When the Invitee logs into the application, +50 points should be added to the Inviter's account to whom they are connected."
+,Invitee Earning Reward Points Process,The invitee user should be able to see that the earned reward points are valid and correctly displayed on their profile page.,"*When the Invitee logs into the application, +100 points should be added to their account."
+,Using Rewar Points,"The user should be able to use the earned reward points. 
+The reward points should be accurately added to the user's account. 
+The user should be able to complete the process smoothly when they want to use the reward points.
+The user should be able to receive their order from their chosen market location at a suitable time.","*When the Invitee or Inviter accumulates enough points to make a purchase, the products that can be purchased with those points should be active in the market.
+*After the Invitee or Inviter confirms their cart, a list of markets where they can pick up the products should be provided.
+*The Invitee or Inviter should be able to choose their preferred market as a pick-up point from the list.
+*The working hours of the pick-up point should be displayed in the list.
+When the Invitee or Inviter defines the purchase with points, a QR code should be generated.
+*After making a purchase with points, the resulting QR orders should be listed in the 'My Orders' section."
